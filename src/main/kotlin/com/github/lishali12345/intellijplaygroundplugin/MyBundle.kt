@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.lishali12345.intellijplaygroundplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
